@@ -1,5 +1,5 @@
 body{
-    font-family: 'Comic Neue', cursive;
+    font-family: 'Lobster', cursive;
 }
 
 header{
@@ -79,6 +79,7 @@ nav a:hover{
     margin-top: 10px;
 }
 
+/*inicio rodape*/
 footer{
     text-align: center;
     background: url("../img/bg.jpg");
@@ -90,11 +91,16 @@ footer{
     margin: 20px 0 0;
 
 }
+
+/*fim rodape*/
+
 main{
     width: 940px;
     margin: 0 auto;
 }
 
+
+/*inicio formulario*/
 form{
     margin: 40px 0;
 }
@@ -132,6 +138,7 @@ form label, form legend{
     background: darkorange;
     transform: scale(1.2)   /*aumenta o item em 20%*/
 }
+/*Fim formulario*/
 
 table{
     margin: 20px 0 40px ;
